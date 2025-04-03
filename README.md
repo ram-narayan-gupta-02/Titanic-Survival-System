@@ -95,10 +95,10 @@ streamlit run app.py
 ```
 ### **Alternative: Run via Python Script**
 ```bash
-python run_streamlit.py
+python -m streamlit run app.py
 ```
 ### **Access in Browser**
-Once running, open [http://localhost:8501](http://localhost:8501) in your browser.
+Once running, open in your browser.
 
 ---
 
@@ -120,6 +120,6 @@ Feel free to contribute by submitting a pull request or reporting issues!
 ---
 
 ## 📩 Contact
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-📌 GitHub: [your-github-profile](https://github.com/yourusername)
+📧 Email: [ramnrngupta@gmail.com](mailto:ramnrngupta@gmail.com)
+📌 GitHub: [ram-narayan-gupta-02](https://github.com/ram-narayan-gupta-02)
 
