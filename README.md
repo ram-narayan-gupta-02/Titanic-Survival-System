@@ -1,4 +1,3 @@
-# Titanic-Survival-System
 # Titanic Survival Prediction System
 
 ## 📌 Project Overview
