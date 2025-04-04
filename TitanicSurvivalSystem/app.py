@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import training_dataset_test
+from sklearn.model_selection import train_test_split
 
 # Load Titanic dataset two different ways
 # df = pd.read_csv("Train.csv")  
@@ -27,7 +27,7 @@ X = df[features]
 y = df['Survived']
 
 # Separate the data for model training and evaluation
-X_train, X_test, y_train, y_test = training_dataset_test(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Fill missing values
 X_train = X_train.fillna(X_train.median())
