@@ -4,6 +4,7 @@
 This project is a **machine learning-based system** that predicts whether a passenger on the Titanic would survive or not based on various features such as age, gender, ticket class, fare, and embarkation point.
 
 The model is built using **Python, pandas, scikit-learn, and Streamlit** for deployment, providing an interactive web interface for predictions.
+![Uploading ChatGPT Image Mar 30, 2025, 02_16_41 PM.png…]()
 
 ## 🚀 Features
 - **Data Preprocessing**: Handles missing values and categorical variables.
