@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project is a **machine learning-based system** that predicts whether a passenger on the Titanic would survive or not based on various features such as age, gender, ticket class, fare, and embarkation point.
 
+![Titanic Survival Model](Titanic-who-is-to-blame-for-the-ship-sinking.avif)
+
 The model is built using **Python, pandas, scikit-learn, and Streamlit** for deployment, providing an interactive web interface for predictions.
 
 ## 🚀 Features
