@@ -46,6 +46,20 @@ model.fit(X_train_scaled, y_train)
 st.title("🚢 Titanic Survival Prediction System")
 
 # User input fields
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-image: url("https://cdn.mos.cms.futurecdn.net/fBMNaz36dGKAYSw3WWvXt4-1200-80.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 pclass = st.selectbox("Passenger Class (Pclass)", [1, 2, 3])
 sex = st.radio("Sex", ["Male", "Female"])
 age = st.slider("Age", 1, 80, 25)
