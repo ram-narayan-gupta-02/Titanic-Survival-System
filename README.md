@@ -111,11 +111,6 @@ Once running, open in your browser.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🤝 Contributing
 Feel free to contribute by submitting a pull request or reporting issues!
 
