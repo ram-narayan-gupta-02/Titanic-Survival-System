@@ -88,5 +88,6 @@ if st.button("Predict"):
     
     # Display result
     st.subheader("Prediction Result:")
-    
+    st.success(result)
+
 
