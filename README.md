@@ -1,4 +1,5 @@
 # Titanic Survival Prediction System
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 📌 Project Overview
 This project is a **machine learning-based system** that predicts whether a passenger on the Titanic would survive or not based on various features such as age, gender, ticket class, fare, and embarkation point.
