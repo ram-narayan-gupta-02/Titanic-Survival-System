@@ -118,6 +118,6 @@ Feel free to contribute by submitting a pull request or reporting issues!
 ---
 
 ## 📩 Contact
-**Ram Narayan Gupta**  
+
 📧 [ramnrngupta@gmail.com](mailto:ramnrngupta@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ram-narayan-gupta)  
